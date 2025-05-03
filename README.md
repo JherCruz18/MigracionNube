@@ -24,9 +24,11 @@ La solución se basa en un flujo de trabajo de ingeniería de datos que incluye:
 
 ## 🗂 Estructura del Proyecto
 📁 csv_marketing/ → Archivos CSV fuente
+
 📁 notebook/ → Código de migración y transformación (ETL)
+
 📁 presentacion/ → Presentacion del proyecto y el Dashboard realizado en Looker Studio
-📄 requirements.txt → Librerías necesarias
+
 📄 README.md → Documentación del proyecto
 
 📌 Requisitos para Ejecutarlo
