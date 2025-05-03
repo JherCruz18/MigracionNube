@@ -1,6 +1,6 @@
 # 📊 Migración de Archivos CSV a BigQuery y Visualización en Dashboard
 
-Este proyecto fue desarrollado como parte del **proyecto final del curso de Ingeniería de Datos en Google Cloud Platform (GCP)**. Consiste en la migración de datos desde archivos CSV hacia BigQuery, para luego analizarlos mediante un dashboard interactivo creado con una herramienta de visualización.
+Este proyecto fue desarrollado como parte del **proyecto final del curso de Ingeniería de Datos en Google Cloud Platform (GCP)**. Consiste en la migración de datos desde archivos CSV hacia BigQuery, para luego analizarlos mediante un dashboard interactivo creado con una herramienta de visualización llamado Looker Studio.
 
 ---
 ## 🚀 Descripción General
@@ -9,7 +9,7 @@ La solución se basa en un flujo de trabajo de ingeniería de datos que incluye:
 
 - Limpieza y transformación de archivos CSV con Python.
 - Carga de los datos procesados a Google BigQuery.
-- Conexión del dataset en BigQuery con una herramienta de visualización (Power BI o Looker Studio).
+- Conexión del dataset en BigQuery con una herramienta de visualización (Looker Studio).
 - Creación de un dashboard interactivo con métricas clave.
 ---
 
