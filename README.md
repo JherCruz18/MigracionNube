@@ -33,6 +33,7 @@ La solución se basa en un flujo de trabajo de ingeniería de datos que incluye:
 
 📌 Requisitos para Ejecutarlo
 Cuenta en Google Cloud Platform (con BigQuery habilitado).
+
 Llave publica - lo puedes sacar a traves de IAM y reemplazarlo en el codigo.
 
 ## 🔧 Cómo Usar este Proyecto
