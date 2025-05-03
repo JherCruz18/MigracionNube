@@ -1,0 +1,5 @@
+region_id,nombre_region,pais,codigo_postal,ciudad
+1,Arequipa,Perú,14433,Arequipa
+2,Chiclayo,Perú,13444,Chiclayo
+3,Cusco,Perú,15666,Cusco
+4,"Lima Metropolitana",Perú,17555,"Lima Metropolitana"

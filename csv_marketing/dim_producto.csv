@@ -1,0 +1,10 @@
+product_id,nombre_producto,categoria,precio_unitario
+1,"Bootcamp de Data Science",Bootcamp,1150.00
+2,"Bootcamp de Data Engineer",Bootcamp,1135.00
+3,"Bootcamp de Data Analytics",Bootcamp,1156.00
+4,"Curso de Machine Learning",Curso,450.00
+5,"Curso de Python",Curso,600.00
+6,"Curso de Machine Learning",Curso,650.00
+7,"Diplomado en Data Analytics",Diplomado,3000.00
+8,"Diplomado en Data Engineering",Diplomado,3300.00
+9,"Diplomado en Data Science",Diplomado,3500.00
